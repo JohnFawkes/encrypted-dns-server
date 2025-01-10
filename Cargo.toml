@@ -20,7 +20,7 @@ clap = { version = "3.2.25", default-features = false, features = [
   "wrap_help",
 ] }
 coarsetime = "0.1.34"
-daemonize-simple = "0.1.5"
+daemonize-simple = "0.1.6"
 dnsstamps = "0.1.9"
 educe = { version = "0.6.0", features = ["full"] }
 env_logger = { version = "0.11.5", default-features = false, features = [
